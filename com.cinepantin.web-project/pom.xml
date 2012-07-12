@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Ciné Pantin web project</name>
-  <description>The "Ciné Pantin web project" is a fictive business case, developped as a classwork lab by a 3-student group (Alain+Christelle+Houyam) in a "CQP DNT" French SYNTEC-CICM cursus (@AFRAMP/2012/02)</description>
+  <description>The "Ciné Pantin web project" is a fictive business case, developed as a classwork lab by a 3-student group (Alain+Christelle+Houyam) in a "CQP DNT" French SYNTEC-CICM cursus (@AFRAMP/2012/02)</description>
   <modules>
   	<module>web-public</module>
   </modules>
